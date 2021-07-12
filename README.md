@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<p style="text-align: center; font-size: 1rem;" align='center'>👦🏻 Andrés Mayorca | 👨‍💻 Backend Developer | 🌮 Mexico</p>
+<h1 style="font-size: 2.5rem; font-weight: bold; text-align: center;" align='center'>Hi there! <img src="https://media.giphy.com/media/fFEFxS3DE5VIY/giphy.gif" width="35px" /></h1>
+
+<p style="text-align: center; font-size: 1rem;" align='center'>👦🏻 Andrés Mayorca | 👨‍💻 Backend Developer</p>
 
 - 👨‍💻 I am Andrés Mayorca and I am 13 years old
 - I am passionate about backend development, AI and smart contract development
