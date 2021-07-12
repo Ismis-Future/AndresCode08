@@ -9,5 +9,6 @@
 <img src="./javascript.svg" alt="javascript" width="40" height="40"/>
 <img src="./python.svg" alt="python" width="40" height="40"/>
 <img src="./django.png" alt="python" width="40" height="40"/>
-<img src="https://miro.medium.com/max/318/1*c1rnU4_5k7Mimo_CA1efmQ.png" alt="styled-components" width="40" height="40"/>
+<img src="./FLASK_png.png" alt="python" width="40" height="40"/>
+<img src="./solidity_png.png" alt="python" width="40" height="40"/>
 </p>
