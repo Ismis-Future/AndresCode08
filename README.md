@@ -7,17 +7,11 @@
 <h2 style="display: flex; align-items: center; margin-bottom: 1rem;"><img style="width: 40px; margin: 0;" src="./Octocat.png" alt="🌟" width='40' /> About Me</h2>
 
 - 👨‍💻 I am Andrés Mayorca and I am 13 years old
-- 
 - I am passionate about backend development, AI and smart contract development
-- 
 - I am learning to program
-- 
 - Currently I would like to work on projects, to gain experience.
-- 
 - Ask me about: HTML, CSS, Javascript, Solidity and python, flask and django
-- 
 - I am passionate about sports, especially soccer and tennis
-- 
 - 💬 I like to spend time in Twitter **[twitter.com/ Andres](https://twitter.com/Andresito_0808)**
 
 
