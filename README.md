@@ -6,9 +6,9 @@
 <img src="./html.svg" alt="html5" width="40" height="40"/>
 <img src="./css3.svg" alt="css3" width="40" height="40"/>
 <img src="./javascript.svg" alt="javascript" width="40" height="40"/>
+<img src="./git.svg" alt="git" width="40" height="40"/>
 <img src="./python.svg" alt="python" width="40" height="40"/>
 <img src="./django.png" alt="python" width="40" height="40"/>
 <img src="./FLASK_png.png" alt="python" width="40" height="40"/>
 <img src="./solidity_png.png" alt="python" width="40" height="40"/> 
-<img src="./git.svg" alt="git" width="40" height="40"/>
 </p>
