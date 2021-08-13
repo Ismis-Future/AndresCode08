@@ -6,7 +6,7 @@
 
 <h2 style="display: flex; align-items: center; margin-bottom: 1rem;"><img style="width: 40px; margin: 0;" src="./Octocat.png" alt="🌟" width='40' /> About Me</h2>
 
-- 👨‍💻 I am Andrés Mayorca and I am 13 years old
+- 👨‍💻 I am Andrés Mayorca and I am 14 years old
 - I am passionate about backend development, AI and smart contract development
 - I am learning to program
 - Currently I would like to work on projects, to gain experience.
