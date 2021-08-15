@@ -22,7 +22,7 @@
 <img src="./javascript.svg" alt="javascript" width="40" height="40"/>
 <img src="./git.svg" alt="git" width="40" height="40"/>
 <img src="./python.svg" alt="python" width="40" height="40"/>
-<img src="./django.png" alt="python" width="40" height="40"/>
-<img src="./FLASK_png.png" alt="python" width="40" height="40"/>
+<img src="./django.svg" alt="python" width="40" height="40"/>
+<img src="./flask.svg" alt="python" width="40" height="40"/>
 <img src="./solidity_png.png" alt="python" width="40" height="40"/> 
 </p>
