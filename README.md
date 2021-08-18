@@ -15,15 +15,3 @@
 - 💬 I like to spend time in Twitter **[twitter.com/ Andres](https://twitter.com/Andresito_0808)**
 - My webiste is **[andresitodev](https://andresitodev.github.io/My-Website/)**
 
-
-<h2 style="margin: 1rem 0;">📚 My Stack<h3>
-<p align='center' style="text-align: center; display: flex; justify-content: space-around; flex-wrap: wrap; margin-top: 2rem; margin-bottom: 2rem;">
-<img src="./html.svg" alt="html5" width="40" height="40"/>
-<img src="./css3.svg" alt="css3" width="40" height="40"/>
-<img src="./javascript.svg" alt="javascript" width="40" height="40"/>
-<img src="./git.svg" alt="git" width="40" height="40"/>
-<img src="./python.svg" alt="python" width="40" height="40"/>
-<img src="./django.svg" alt="python" width="40" height="40"/>
-<img src="./flask.svg" alt="python" width="40" height="40"/>
-<img src="./solidity_png.png" alt="python" width="40" height="40"/> 
-</p>
