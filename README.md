@@ -12,6 +12,6 @@
 - Currently I would like to work on projects, to gain experience.
 - Ask me about: HTML, CSS, Javascript, Solidity and python, flask and django
 - I am passionate about sports, especially soccer and tennis
-- 💬 I like to spend time in Twitter **[twitter.com/ Andres](https://twitter.com/Andresito_0808)**
+- 💬 I like to spend time in Twitter **[twitter.com/ Andres](https://twitter.com/andresitodev)**
 - My webiste is **[andresitodev](https://andresitodev.github.io/My-Website/)**
 
