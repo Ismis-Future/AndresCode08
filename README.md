@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 style="font-size: 2.5rem; font-weight: bold; text-align: center;" align='center'>Hi there!</h1> <img style="width: 40px; margin: 0;" src="./Octocat.png" alt="🌟" width='40' />
+<h1 style="font-size: 2.5rem; font-weight: bold; text-align: center;" align='center'>Hi there!</h1> 
 
 <p style="text-align: center; font-size: 1rem;" align='center'>👦🏻 Andrés Mayorca | 👨‍💻 FULL STACK WEB DEVELOPER</p>
 
