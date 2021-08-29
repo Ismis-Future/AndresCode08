@@ -4,8 +4,8 @@
 
 <p style="text-align: center; font-size: 1rem;" align='center'>👦🏻 Andrés Mayorca | 👨‍💻 FULL STACK WEB DEVELOPER</p>
 <div align='center' style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; column-gap: 20px;">
-<a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href="https://twitter.com/andresitodev" target="_blank"><img src="./assets/social-media/twitter.svg" alt="lolesuncrak" width="30"  /></a>
-<a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href='mailto:andresitodev@gmail.com' target='_blank'><img src="./assets/social-media/gmail.svg" width="30" alt="Elmer Gustavo Pú" /></a>
+<a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href="https://twitter.com/andresitodev" target="_blank"><img src="./assets/social-media/twitter.svg" alt="andresitodev" width="30"  /></a>
+<a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href='mailto:andresitodev@gmail.com' target='_blank'><img src="./assets/social-media/gmail.svg" width="30" alt="andresitodev" /></a>
 
 <h2 style="display: flex; align-items: center; margin-bottom: 1rem;"><img style="width: 40px; margin: 0;" src="./Octocat.png" alt="🌟" width='40' /> About Me</h2>
 
