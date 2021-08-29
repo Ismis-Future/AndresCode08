@@ -15,3 +15,7 @@
 - 💬 I like to spend time in Twitter **[twitter.com/ Andres](https://twitter.com/andresitodev)**
 - My webiste is **[andresitodev](https://andresitodev.github.io/My-Website/)**
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
