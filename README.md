@@ -21,7 +21,7 @@
 - My webiste is **[andresitodev](https://andresitodev.netlify.app)**
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andresitodev&show_icons=true&theme=vue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andresitodev&show_icons=true&theme=tokyonight&locale=en)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresitodev&layout=compact)](https://github.com/andresitodev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresitodev&theme=tokyonight&locale=en&layout=compact)](https://github.com/andresitodev/github-readme-stats)
