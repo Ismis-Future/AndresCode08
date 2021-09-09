@@ -3,7 +3,7 @@
 
 
 
-<h2 style="display: flex; align-items: center; margin-bottom: 1rem;"><img style="width: 40px; margin: 0;" src="./Octocat.png" alt="🌟" width='40' /> About Me</h2>
+
 
 - 🔭 I’m currently working on **my personal project**
 
@@ -26,9 +26,9 @@
 </div>
   
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andresitodev&label=Profile%20views&theme=tokyonight&locale=en alt="ayush714" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andresitodev&label=Profile%20views&theme=tokyonight&locale=en alt="Andres Mayorca" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andresitodev&theme=tokyonight&locale=en" alt="andresitodev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andresitodev&theme=tokyonight&locale=en" alt="Andres Mayorca" /></a> </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andresitodev&show_icons=true&theme=light&locale=en)
 
