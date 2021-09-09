@@ -22,9 +22,9 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andresitodev&label=Profile%20views&color=0e75b6&style=flat" alt="ayush714" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andresitodev&label=Profile%20views&theme=tokyonight&locale=en alt="ayush714" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andresitodev" alt="andresitodev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andresitodev&theme=tokyonight&locale=en" alt="andresitodev" /></a> </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andresitodev&show_icons=true&theme=tokyonight&locale=en)
 
