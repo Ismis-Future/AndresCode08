@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/andresitodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andresitodev" height="30" width="40" /></a>
-<a href='mailto:andresitodev@gmail.com' target='_blank'><img src="./social-media/gmail.svg" height="30" width="40" alt="andresitodev" /></a>
+<a href="mailto:andresitodev@gmail.com" target='_blank'><img src="./social-media/gmail.svg" height="30" width="40" alt="andresitodev" /></a>
 <a href="https://www.kaggle.com/dataandres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="andresitodev" height="30" width="40" /></a>
 </div>
   
