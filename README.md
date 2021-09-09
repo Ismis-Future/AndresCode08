@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andresitodev&label=Profile%20views&theme=tokyonight&locale=en alt="Andres Mayorca" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andresitodev&theme=tokyonight&locale=en" alt="Andres Mayorca" /></a> </p>
+  
 - 🔭 I’m currently working on **my personal project**
 
 - 🌱 I’m currently learning **machine learning & web development**
@@ -23,8 +25,6 @@
 <a href="https://www.kaggle.com/dataandres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="andresitodev" height="30" width="40" /></a>
 </div>
   
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andresitodev&theme=tokyonight&locale=en" alt="Andres Mayorca" /></a> </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andresitodev&show_icons=true&theme=light&locale=en)
 
