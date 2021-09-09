@@ -23,6 +23,7 @@
 <a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href="https://twitter.com/andresitodev" target="_blank"><img src="./social-media/twitter.svg" alt="andresitodev" width="30"  /></a>
 <a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href='mailto:andresitodev@gmail.com' target='_blank'><img src="./social-media/gmail.svg" width="30" alt="andresitodev" /></a>
 </div>
+<a href="https://www.kaggle.com/dataandres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="andresitodev" height="30" width="40" /></a>
   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andresitodev&label=Profile%20views&theme=tokyonight&locale=en alt="ayush714" /> </p>
