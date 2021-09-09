@@ -20,8 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href="https://twitter.com/andresitodev" target="_blank"><img src="./social-media/twitter.svg" alt="andresitodev" width="30"  /></a>
-<a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href='mailto:andresitodev@gmail.com' target='_blank'><img src="./social-media/gmail.svg" width="30" alt="andresitodev" /></a>
+<a href="https://twitter.com/andresitodev" target="_blank"><img src="./social-media/twitter.svg" alt="andresitodev" width="30"  /></a>
+<a href='mailto:andresitodev@gmail.com' target='_blank'><img src="./social-media/gmail.svg" width="30" alt="andresitodev" /></a>
 <a href="https://www.kaggle.com/dataandres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="andresitodev" height="30" width="40" /></a>
 </div>
   
