@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andres Mayorca</h1>
 <h3 align="center">A passionate Machine Learning & Web Development from Venezuela</h3>
 
-
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andresitodev&label=Profile%20views&theme=tokyonight&locale=en alt="Andres Mayorca" /> </p>
 
 - 🔭 I’m currently working on **my personal project**
 
@@ -25,8 +23,6 @@
 <a href="https://www.kaggle.com/dataandres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="andresitodev" height="30" width="40" /></a>
 </div>
   
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andresitodev&label=Profile%20views&theme=tokyonight&locale=en alt="Andres Mayorca" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andresitodev&theme=tokyonight&locale=en" alt="Andres Mayorca" /></a> </p>
 
