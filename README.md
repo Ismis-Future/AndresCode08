@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrés Mayorca</h1>
-<h3 align="center">A passionate Machine Learning & Web Development from Venezuela</h3>
+<h3 align="center">A passionate Machine Learning & Backend Development from Venezuela</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andresitodev&label=Profile%20views&theme=tokyonight&locale=en alt="Andres Mayorca" /> </p>
 
@@ -9,11 +9,11 @@
   
 - 🔭 I’m currently working on **my personal project**
 
-- 🌱 I’m currently learning **machine learning & web development**
+- 🌱 I’m currently learning **machine learning & backend development**
 
-- 👯 I am looking to collaborate on machine learning and web development projects
+- 👯 I am looking to collaborate on machine learning and backend development projects
 
-- 💬 Ask me about **Machine Learning, Smart Contract, Web development**
+- 💬 Ask me about **Machine Learning, Smart Contract, backend development**
 
 - 📫 How to reach me **andresitodev@gmail.com**
 
