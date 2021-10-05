@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Andrés Mayorca</h1>
 <h3 align="center">A passionate Machine Learning & Backend Development from Venezuela</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=andresitodev-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=randrestiodev-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 [![Twitter: andresitodev](https://img.shields.io/twitter/follow/andresitodev?style=social)](https://twitter.com/andresitodev)
 [![GitHub andresitodev](https://img.shields.io/github/followers/andresitodev?label=follow&style=social)](https://github.com/andresitodev)
