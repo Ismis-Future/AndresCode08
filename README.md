@@ -35,4 +35,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresitodev&theme=ligth&locale=en&layout=compact)](https://github.com/andresitodev/github-readme-stats)
   
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Andres Mayorca&" alt="Andres Mayorca" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andresitodev&" alt="Andres Mayorca" /></p>
