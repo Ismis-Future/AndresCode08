@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Andrés Mayorca</h1>
 <h3 align="center">A passionate Machine Learning & Backend Development from Venezuela</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=andrestiodev-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andresitodev&label=Profile%20views&color=0e75b6&style=flat" alt="gajesh2007" /> </p>
 
 
 [![Twitter: andresitodev](https://img.shields.io/twitter/follow/andresitodev?style=social)](https://twitter.com/andresitodev)
@@ -41,5 +42,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresitodev&theme=ligth&locale=en&layout=compact)](https://github.com/andresitodev/github-readme-stats)
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andresitodev&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andresitodev&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
