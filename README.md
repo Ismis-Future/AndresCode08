@@ -10,8 +10,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andresitodev" alt="Andrés Mayorca" /></a></p>
 
-<p align="left"> <a href="https://twitter.com/andresitodev" target="blank"><img src="https://img.shields.io/twitter/follow/andresitodev?logo=twitter&style=for-the-badge" alt="Andrés Mayorca" /></a> </p>
-  
+<h1>About Me</h1>
+
 - 🔭 I’m currently working on **my personal project**
 
 - 🌱 I’m currently learning **machine learning & backend development**
