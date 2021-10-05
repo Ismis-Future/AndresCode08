@@ -40,4 +40,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresitodev&theme=ligth&locale=en&layout=compact)](https://github.com/andresitodev/github-readme-stats)
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=andresitodev-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=randresitodev-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
