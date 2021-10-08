@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Machine Learning & Backend Development from Venezuela</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andresitodev&label=Profile%20views&color=0e75b6&style=flat" alt="gajesh2007" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andresitodev&label=Profile%20views&color=0e75b6&style=flat" alt="Andres Mayorca" /> </p>
 
 
-[![Twitter: andresitodev](https://img.shields.io/twitter/follow/andresitodev?style=social)](https://twitter.com/andresitodev)
-[![GitHub andresitodev](https://img.shields.io/github/followers/andresitodev?label=follow&style=social)](https://github.com/andresitodev)
+[![Twitter: andresitodev](https://img.shields.io/twitter/follow/andresitodev?style=social)](https://twitter.com/AndresMayorca8)
+[![GitHub andresitodev](https://img.shields.io/github/followers/andresitodev?label=follow&style=social)](https://github.com/AndresMayorca8)
 [![website](https://img.shields.io/badge/PortfolioWebsite-andresitodev.netlify.app-2648ff?style=flat-square&logo=google-chrome)](https://andresitodev.netlify.app/)
 
 
