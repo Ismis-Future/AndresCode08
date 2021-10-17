@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **mayorcaalejandro21@gmail.com**
 
-- 📄 Know about my experiences [https://www.github.com/AndresMayorca8](https://www.github.com/AndresMayorca8)
+- 📄 Know about my experiences [https://github.com/AndresMayorca8?tab=repositories](https://github.com/AndresMayorca8?tab=repositories)
 
 
 <h3 align="left">Connect with me:</h3>
