@@ -22,16 +22,16 @@
 
 - 💬 Ask me about **Machine Learning, Smart Contract, backend development**
 
-- 📫 How to reach me **andresitodev@gmail.com**
+- 📫 How to reach me **mayorcaalejandro21@gmail.com**
 
 - 📄 Know about my experiences [https://www.github.com/AndresMayorca8](https://www.github.com/AndresMayorca8)
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/andresitodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andresitodev" height="30" width="40" /></a>
-<a href="mailto:andresitodev@gmail.com" target='_blank'><img align="center" src="./social-media/gmail.svg" height="30" width="40" alt="andresitodev" /></a>
-<a href="https://www.kaggle.com/dataandres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="andresitodev" height="30" width="40" /></a>
+<a href="https://twitter.com/AndresMayorca8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Andrés Mayorca" height="30" width="40" /></a>
+<a href="mailto:mayorcaalejandro21@gmail.com" target='_blank'><img align="center" src="./social-media/gmail.svg" height="30" width="40" alt="Andrés Mayorca" /></a>
+<a href="https://www.kaggle.com/dataandres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Andrés Mayorca" height="30" width="40" /></a>
 </div>
   
 <h3 align="left">Languages and Tools:</h3>
