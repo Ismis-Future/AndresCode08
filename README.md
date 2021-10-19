@@ -4,15 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AndresMayorca8&label=Profile%20views&color=0e75b6&style=flat" alt="Andres Mayorca" /> </p>
 
-
-[![Twitter: andresitodev](https://img.shields.io/twitter/follow/AndresMayorca8?style=social)](https://twitter.com/AndresMayorca8)
-[![GitHub andresitodev](https://img.shields.io/github/followers/AndresMayorca8?label=follow&style=social)](https://github.com/AndresMayorca8)
-[![website](https://img.shields.io/badge/PortfolioWebsite-andresmayorca.netlify.app-2648ff?style=flat-square&logo=google-chrome)](https://andresmayorca.netlify.app/)
-
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AndresMayorca8" alt="Andrés Mayorca" /></a></p>
 
-<h1>About Me</h1>
+<p align="left"> <a href="https://twitter.com/AndresMayorca8" target="blank"><img src="https://img.shields.io/twitter/follow/ayushsi69507942?logo=twitter&style=for-the-badge" alt="AndresMayorca8" /></a> </p>
 
 - 🔭 I’m currently working on **my personal project**
 
