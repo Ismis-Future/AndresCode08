@@ -4,7 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AndresMayorca8&label=Profile%20views&color=0e75b6&style=flat" alt="Andres Mayorca" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AndresMayorca8" alt="Andrés Mayorca" /></a></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=AndresMayorca8)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <p align="left"> <a href="https://twitter.com/AndresMayorca8" target="blank"><img src="https://img.shields.io/twitter/follow/AndresMayorca8?logo=twitter&style=for-the-badge" alt="AndresMayorca8" /></a> </p>
 
