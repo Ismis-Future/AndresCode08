@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/AndresMayorca8" target="blank"><img src="https://img.shields.io/twitter/follow/AndresMayorca8?logo=twitter&style=for-the-badge" alt="AndresMayorca8" /></a> </p>
 
-- 🔭 I’m currently working on **my personal project**
+- 🔭 I’m currently working on **kaggle projects**
 
-- 🌱 I’m currently learning **machine learning & backend development**
+- 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
-- 👯 I am looking to collaborate on machine learning and backend development projects
+- 👯 I am looking to collaborate on machine learning rojects
 
-- 💬 Ask me about **Machine Learning, Smart Contract, backend development**
+- 💬 Ask me about **Machine Learning, Deep Learning and backend development**
 
 - 📫 How to reach me **mayorcaalejandro21@gmail.com**
 
