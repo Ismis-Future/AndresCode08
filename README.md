@@ -26,7 +26,6 @@
 <a href="https://twitter.com/AndresMayorca8" target="BLANK"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Andrés Mayorca" height="30" width="40" /></a>
 <a href="mailto:mayorcaalejandro21@gmail.com" target="BLANK"><img align="center" src="./social-media/gmail.svg" height="30" width="40" alt="Andrés Mayorca" /></a>
 <a href="https://www.kaggle.com/dataandres" target="BLANK"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Andrés Mayorca" height="30" width="40" /></a>
-<a href="https://discord.gg/wyAh33tk" target="BLANK"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Andres Mayorca CONTACT" height="30" width="40" /></a>
 </p>
   
 <h3 align="left">Languages and Tools:</h3>
