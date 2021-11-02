@@ -34,7 +34,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AndresMayorca8&theme=dark&show_icons=true&locale=en&layout=compact" alt="AndresMayorca8" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AndresMayorca8&theme=dark&show_icons=true&locale=en" alt="AndresMayorca8" /></p>
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AndresMayorca8&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
