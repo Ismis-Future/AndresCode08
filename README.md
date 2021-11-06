@@ -1,3 +1,7 @@
+
+
+![Aprende programación, desarrollo web E inteligencia artificial](https://user-images.githubusercontent.com/70079260/140625588-1245821f-3852-4c14-9d79-fe0e77e15dc4.gif)
+
 <h1 align="center">Hi 👋, I'm Andrés Mayorca</h1>
 <h3 align="center">A passionate Machine Learning from Venezuela</h3>
 
