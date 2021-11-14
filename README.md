@@ -3,22 +3,17 @@
 <h1 align="center">Hi 👋, I'm Andrés Mayorca</h1>
 <h3 align="center">A passionate Machine Learning from Venezuela</h3>
 
-| [![Twitter Follow](https://img.shields.io/twitter/follow/AndresCode08?color=%2322A0ED&label=Andres%20Code&logo=twitter&logoColor=%2322A0ED&style=for-the-badge)](https://twitter.com/AndresCode08) | 
+| [![Twitter Follow](https://img.shields.io/twitter/follow/AndresCode8?color=%2322A0ED&label=Andres%20Code&logo=twitter&logoColor=%2322A0ED&style=for-the-badge)](https://twitter.com/AndresCode8) | 
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCMsffGZQyaHJSrOs6xp_-Zg?color=%23E05D44&label=Suscriptores&logo=YouTube&logoColor=%23E05D44&style=for-the-badge)](https://www.youtube.com/channel/UCMsffGZQyaHJSrOs6xp_-Zg) | 
 ![Github](https://img.shields.io/github/followers/AndresCode08?color=%231C1B1B&label=Seguidores&logo=Github&logoColor=%231C1B1B&style=for-the-badge) | 
 ![Github_stars](https://img.shields.io/github/stars/AndresCode08?color=%231C1B1B&label=Estrellas&logo=Github&logoColor=%231C1B1B&style=for-the-badge) | 
 
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndresCode08&theme=dark&show_icons=true&locale=en" alt="AndresMayorca8" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AndresCode08&theme=dark&show_icons=true&locale=en&layout=compact"             alt="AndresMayorca8" />
-</div>
-  
+ 
+<img src="https://user-images.githubusercontent.com/70079260/141687329-68705fec-4122-41d7-916e-9e3a1f343eae.png" >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AndresCode08&label=Profile%20views&color=0e75b6&style=flat" alt="Andres Mayorca" /> </p>
-
+ 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AndresCode08&theme=darkhub" alt="AndresMayorca8" /></a> </p
-
-<p align="left"> <a href="https://twitter.com/AndresMayorca8" target="blank"><img src="https://img.shields.io/twitter/follow/AndresCode08?logo=twitter&style=for-the-badge" alt="AndresMayorca8" /></a> </p>
+    
 
 - 🔭 I’m currently working on **kaggle projects**
 
