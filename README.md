@@ -22,7 +22,10 @@
 - 📫 How to reach me **andrescode21@gmail.com**
 - 📄 Know about my experiences [on my youtube channel](https://www.youtube.com/channel/UCMsffGZQyaHJSrOs6xp_-Zg)
 
-
+ 
+# My Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=AndresCode08&theme=dark&show_icons=true&locale=en" alt="AndresMayorca8" />
+ 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AndresCode08&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
