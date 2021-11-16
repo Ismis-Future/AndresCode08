@@ -2,10 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Andres Code</h1>
 
-| [![Twitter Follow](https://img.shields.io/twitter/follow/AndresCode8?color=%2322A0ED&label=Andres%20Code&logo=twitter&logoColor=%2322A0ED&style=for-the-badge)](https://twitter.com/AndresCode8) | 
-[![Youtube](https://img.shields.io/youtube/channel/subscribers/UCMsffGZQyaHJSrOs6xp_-Zg?color=%23E05D44&label=Suscriptores&logo=YouTube&logoColor=%23E05D44&style=for-the-badge)](https://www.youtube.com/channel/UCMsffGZQyaHJSrOs6xp_-Zg) | 
-![Github](https://img.shields.io/github/followers/AndresCode08?color=%231C1B1B&label=Seguidores&logo=Github&logoColor=%231C1B1B&style=for-the-badge) | 
-![Github_stars](https://img.shields.io/github/stars/AndresCode08?color=%231C1B1B&label=Estrellas&logo=Github&logoColor=%231C1B1B&style=for-the-badge) | 
+[![Twitter Follow](https://img.shields.io/twitter/follow/AndresCode8?color=%2322A0ED&label=Andres%20Code&logo=twitter&logoColor=%2322A0ED&style=for-the-badge)](https://twitter.com/AndresCode8)
+[![Youtube](https://img.shields.io/youtube/channel/subscribers/UCMsffGZQyaHJSrOs6xp_-Zg?color=%23E05D44&label=Suscriptores&logo=YouTube&logoColor=%23E05D44&style=for-the-badge)](https://www.youtube.com/channel/UCMsffGZQyaHJSrOs6xp_-Zg) 
+![Github](https://img.shields.io/github/followers/AndresCode08?color=%231C1B1B&label=Seguidores&logo=Github&logoColor=%231C1B1B&style=for-the-badge) 
+![Github_stars](https://img.shields.io/github/stars/AndresCode08?color=%231C1B1B&label=Estrellas&logo=Github&logoColor=%231C1B1B&style=for-the-badge) 
 
  
 <p align="center"><img src="https://user-images.githubusercontent.com/70079260/141687329-68705fec-4122-41d7-916e-9e3a1f343eae.png" height="400" width="800"></p>
