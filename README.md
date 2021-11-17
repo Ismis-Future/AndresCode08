@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **My [Youtube channel](https://www.youtube.com/channel/UCMsffGZQyaHJSrOs6xp_-Zg) & [Send Tech](https://www.youtube.com/channel/UC9qwrWMA03Asi5H8IMrZC9A)**
 - 🌱 I’m currently learning **Web development, data science, Artificial Intelligent and smart contracts**
-- 👯 I am looking to collaborate in courses of platforms big  
+- 👯 He sought to collaborate in courses fro big platforms
 - 📝 I record courses on my [Youtube Channel](https://www.youtube.com/channel/UCMsffGZQyaHJSrOs6xp_-Zg) and [Send Tech](https://www.youtube.com/channel/UC9qwrWMA03Asi5H8IMrZC9A) 
 - 💬 Ask me about **data sciencie, artificial intelligent, web development and smart contract**
 - 📫 How to reach me **andrescode21@gmail.com**
